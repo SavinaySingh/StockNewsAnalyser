@@ -1,0 +1,29 @@
+---
+title:  'Group Assignment - Python Programming'
+subtitle: 'Web Scraping and User Interfaces'
+authors: 
+- Sanhy Van Kilian
+- Savinay Singh
+- James Murray - Student No. 13879046  
+keywords: [Python, GUI, Web Scraping, ]
+abstract: 
+  This is the abstract,
+  
+  Make sure you type this after the paper is written. 
+
+## Titlepage Info
+titlepage: true
+#titlepage-logo: ../report/images/titlepage.png
+logo-width: 100mm
+## Table of Contents 
+toc: true 
+toc-own-page: true 
+lof: true
+lot: true
+
+## bibliography is on the first line of yaml data for the paper itself - this enables the citepro for pandoc to act as a reference manager when researching and typing 
+
+## Command in terminal is
+
+# pandoc --citeproc report.md -o report.pdf --template eisvogel meta.yaml
+--- 
