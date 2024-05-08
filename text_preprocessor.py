@@ -10,7 +10,8 @@ import pickle
 
 class TextPreprocessor:
     def __init__(self):
-        self.stop_words = set(pickle.load(open('stopwords.pkl','rb')))
+        with open('stopwords.pkl', 'rb') as f:
+            self.stop_words = set(pickle.load(f))
 
     def remove_punctuation(self,text):
         punctuationfree="".join([i if i not in string.punctuation else ' ' for i in text ])
