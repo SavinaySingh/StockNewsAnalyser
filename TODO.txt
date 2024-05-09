@@ -1,0 +1,5 @@
+TODO
+
+- functions into a separate file
+- update search function with alphavantage 
+- tidy plots for stock information 
