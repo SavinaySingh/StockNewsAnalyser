@@ -1,6 +1,6 @@
-# NewsAnalyzer
+# StockAnalyzer
 
-NewsAnalyzer is a Python application that fetches news articles from the News API, performs sentiment analysis on the articles, and visualizes the data using various techniques such as word clouds and bar charts.
+StockAnalyzer is a Python application that fetches news articles from the News API, performs sentiment analysis on the articles, and visualizes the data using various techniques such as word clouds and bar charts.
 
 ## Getting Started
 1. Install the required dependencies:
@@ -26,6 +26,7 @@ python news_analyser.py <YOUR_API_KEY>
  - News API - A simple HTTP REST API for searching and retrieving live articles from all over the web.
 
 ## Preview
-<img width="1343" alt="image" src="https://github.com/SavinaySingh/Project-Assignment-Information-Aggregator-with-Web-API-and-Scraping/assets/21008903/99eac991-d29e-47a0-b05c-10a4ff1cbed2">
+<img width="1343" alt="image" src="https://github.com/SavinaySingh/Project-Assignment-Information-Aggregator-with-Web-API-and-Scraping/assets/21008903/534401d8-a5b4-41aa-aaee-3b05c21e660f">
+
 
 <img width="954" alt="image" src="https://github.com/SavinaySingh/Project-Assignment-Information-Aggregator-with-Web-API-and-Scraping/assets/21008903/44da3eda-4e81-4f4d-9aed-4c8795673df7">
