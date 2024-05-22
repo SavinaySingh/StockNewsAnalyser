@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 2. Obtain a News API key from newsapi.org and replace <YOUR_API_KEY> while running
 ```bash
-python news_analyser.py <YOUR_API_KEY>
+python stock_analyser.py <YOUR_API_KEY>
 ```
 ## Features
  - Fetch news articles from the News API based on country and category.
